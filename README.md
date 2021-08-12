@@ -1,4 +1,4 @@
-# World-Happiness-Report--Jupyter-Notebook
+# World-Happiness-Report-Project--Jupyter-Notebook
 Adding the entire World Happiness Report Project created in Jupyter Notebook.
 
 ## World Happiness Report
